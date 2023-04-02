@@ -132,6 +132,7 @@ input.onButtonPressed(Button.B, function () {
     basic.showIcon(IconNames.Square)
     basic.clearScreen()
 })
+basic.showIcon(IconNames.Skull)
 basic.forever(function () {
 	
 })
